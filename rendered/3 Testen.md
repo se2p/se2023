@@ -1278,7 +1278,7 @@ for (final IClassCoverage cc : coverageBuilder.getClasses()) {
 
 Jacoco erzeugt an dieser Stelle einen Bericht der in etwa so aussieht:
 
-![Jacoco coverage report](img/3/jacoco1.png)
+![Jacoco coverage report](../img/3/jacoco1.png)
 
 Anhand dieser Information können wir erkennen, dass wir noch keinen Test für den Fall haben, dass der zweite Parameter der größere ist. Führen wir den nun auch noch aus:
 
@@ -1321,4 +1321,4 @@ for (final IClassCoverage cc : coverageBuilder.getClasses()) {
     0 of 3 complexity missed
 
 
-![Jacoco coverage report](img/3/jacoco2.png)
+![Jacoco coverage report](../img/3/jacoco2.png)

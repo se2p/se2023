@@ -55,3 +55,11 @@ Refactorings ist daher, die bestehenden Tests regelmaessig auszufuehren und
 die Funktionalitaet zu ueberpruefen. In diesem Notebook wird das in der
 Vorlesung vorgestellte Code-Beispiel in Einzelschritten nochmal erklaert.
 [Markdown Export](rendered/4%20Refactoring.md)
+
+
+### 5: Vorlesung vom 3.7.2023: Design Patterns (Teil 1/2)
+
+Entwurfsmuster (Design Patterns) bezeichnen allgemeine Loesungen fuer
+wiederkehrende Probleme in der Softwareentwicklung. Wir betrachten in diesem
+und dem naechsten Notebook ein paar der wichtigsten Design Patterns.
+[Markdown Export](rendered/5%20Design%20Patterns%201.md)
